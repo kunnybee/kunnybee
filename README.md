@@ -20,10 +20,6 @@
 
 ## 📊 My Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunnybee&show_icons=true&theme=dark&bg_color=000000&title_color=FFD700&text_color=FFFFFF&count_private=true&hide=prs" alt="GitHub Stats" width="100%" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunnybee&theme=dark&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="GitHub Streak" width="100%" />
 </div>
 
