@@ -10,12 +10,8 @@
 - **Interest Areas**:  
   - System and Data Analysis 🕵️‍♂️  
   - Machine Learning & AI 🧠  
-  - Data Science 🗃️  
+  - Data Science 🗃️
 
-<div align="center" style="color: #FFD700;">
-🐝 "Innovation is the nectar, and technology is the hive." 🐝
-</div>
-  
 ---
 
 ## 📊 My Stats
