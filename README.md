@@ -22,14 +22,14 @@
 <div align="center">
   <table>
     <tr>
-      <td style="width: 33%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=kunnybee&show_icons=true&theme=dark&bg_color=000000&title_color=FFD700&text_color=FFFFFF" alt="GitHub Stats" width="350"/>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=kunnybee&show_icons=true&theme=dark&bg_color=000000&title_color=FFD700&text_color=FFFFFF" alt="GitHub Stats" width="400" height="180"/>
       </td>
-      <td style="width: 33%;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunnybee&theme=dark&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="GitHub Streak" width="350"/>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunnybee&theme=dark&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="GitHub Streak" width="400" height="180"/>
       </td>
-      <td style="width: 33%;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunnybee&layout=compact&theme=dark&bg_color=000000&title_color=FFD700&text_color=FFFFFF" alt="Most Used Languages" width="350"/>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunnybee&layout=compact&theme=dark&bg_color=000000&title_color=FFD700&text_color=FFFFFF" alt="Most Used Languages" width="400" height="180"/>
       </td>
     </tr>
   </table>
