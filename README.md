@@ -23,17 +23,15 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=kunnybee&show_icons=true&theme=dark&bg_color=000000&title_color=FFD700&text_color=FFFFFF" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=kunnybee&show_icons=true&theme=dark&bg_color=000000&title_color=FFD700&text_color=FFFFFF" alt="GitHub Stats" width="400"/>
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunnybee&theme=dark&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="GitHub Streak" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunnybee&layout=compact&theme=dark&bg_color=000000&title_color=FFD700&text_color=FFFFFF" alt="Most Used Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunnybee&layout=compact&theme=dark&bg_color=000000&title_color=FFD700&text_color=FFFFFF" alt="Most Used Languages" width="400"/>
       </td>
     </tr>
   </table>
 </div>
+
 
 <div align="center" style="color: #FFD700;">
 🐝 "Innovation is the nectar, and technology is the hive." 🐝
