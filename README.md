@@ -6,7 +6,7 @@
 ---
 
 ## 🐝 Hi, I'm Kunny!
-- **Education**: Information Technology, University of Jember 📚  
+- **Education**: Information Technology, Universitas Jember 📚  
 - **Interest Areas**:  
   - System and Data Analysis 🕵️‍♂️  
   - Machine Learning & AI 🧠  
