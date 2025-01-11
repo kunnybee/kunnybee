@@ -24,7 +24,7 @@
 </div>
 
 <div align="center" style="color: #FFD700;">
-🐝 "Innovation is the nectar, and technology is the hive" 🐝
+🐝 Innovation is the nectar, and technology is the hive 🐝
 </div>
 
 
