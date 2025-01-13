@@ -1,6 +1,6 @@
 <h1 align="center" style="color: #FFD700;">🐝 . . .</h1>
 <p align="center" style="color: #FFD700;">
-"Like a diligent bee, I navigate complex systems, gather insights from vast data fields, and create solutions that hum with innovation."
+Like a diligent bee, I navigate complex systems, gather insights from vast data fields, and create solutions that hum with innovation.
 </p>
 
 ---
