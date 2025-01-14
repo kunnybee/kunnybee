@@ -8,7 +8,7 @@ Like a diligent bee, I navigate complex systems, gather insights from vast data 
 ## 🐝 Hi, I'm Kunny!
 - **Education**: Information Technology, Universitas Jember 📚  
 - **Interest Areas**:  
-  - System and Data Analysis 🕵️‍♂️  
+  - System & Data Analysis 🕵️‍♂️  
   - Machine Learning & AI 🧠  
   - Data Science 🗃️
 
